@@ -49,7 +49,7 @@ Pour afficher les logs des requêtes réussies, taper la commande suivante :
   
 `cat /var/log/apache2/acces.log | grep "200"`  
   
-🚫 **Identificatiodn des requêtes non réussies (code 404) :**  
+🚫 **Identification des requêtes non réussies (code 404) :**  
   
 Pour afficher les erreurs, taper la commande suivante :  
   
