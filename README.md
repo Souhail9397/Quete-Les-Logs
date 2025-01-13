@@ -18,7 +18,7 @@ Pour configurer le logging pour les accès et les erreurs, il faut modifier le f
   
 ➡️ Dans le shell, taper `nano /etc/apache2/sites-available/000-default.conf`  
   
-➡️ Décommenter les lignes encadrées en rouge sous la capture d'écran ci-dessous :  
+➡️ Décommenter les lignes encadrées en rouge sur la capture d'écran ci-dessous :  
   
 ![image](https://github.com/user-attachments/assets/9a14e6f4-5ef5-4203-8c01-6fcdb55f346f)  
   
