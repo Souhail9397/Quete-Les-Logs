@@ -64,7 +64,8 @@ Pour afficher les adresses IP les plus fréquentes, taper la commande suivante :
 ## :five: Explication de la structure des logs  
   
 Pour ses logs, Apache utilise le format `combined`, comprennant **l'adresse IP**, la **date/heure**, la **requête HTTP**, le **code de réponse**, et la **taille de la réponse**.  
-Nous pouvons retrouver ces informations sur la capture d'écran ci-dessous. Il s'agit du résultat de la commande `curl http://localhost/nonexistent` :  
+Nous pouvons retrouver ces informations sur la capture d'écran ci-dessous. Il s'agit du résultat de la commande  
+`curl http://localhost/nonexistent` :  
   
 ![image](https://github.com/user-attachments/assets/98bdde04-5fcd-40c8-b448-72ffbc89dd86)  
   
