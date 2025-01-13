@@ -27,7 +27,7 @@ Pour configurer le logging pour les accès et les erreurs, il faut modifier le f
   
 ## :three: Générer du trafic sur le serveur web  
   
-Afin de vérifier que les logs fonctionnent correctement, il nous faut générer du trafic sur notre serveur web. Pour ce faire, nous avons besoin de la fonctionnalité **curl**, qui permet d'envoyer des requêtes sur un serveur web, mais qui n'est pas installé par défaut sur les systèmes Debian.  
+Afin de vérifier que les logs fonctionnent correctement, il nous faut générer du trafic sur notre serveur web. Pour ce faire, nous avons besoin de la fonctionnalité **curl**, qui permet d'envoyer des requêtes sur un serveur web, mais qui n'est pas installée par défaut sur les systèmes Debian.  
   
 ➡️ Télécharger **curl** : `sudo apt install curl`  
   
